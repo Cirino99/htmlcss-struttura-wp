@@ -34,7 +34,7 @@ header {
     background-color: #abcfe7;
     height: 100px;
 }
-.colsx, .colcenter, .coldx {
+.float {
     float: left;
     /* debug */
     background-color: #abcfe7;
@@ -42,7 +42,7 @@ header {
     border-top: solid 15px #0186fe;
     height: 300px;
 }
-.colsx, .coldx{
+.colside{
     width: 15%;
 }
 .colcenter {
