@@ -3,3 +3,23 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container {
+    width: 80%;
+    margin: 0 10%;
+}
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* regole header */
+header {
+    height: 100px;
+    background-color: #e579e6;
+}
+
+/* regole main */
+
+
+/* regole footer */
